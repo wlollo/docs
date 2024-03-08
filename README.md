@@ -19,7 +19,6 @@ Ex  <VirtualHost *:80>
      SSLCertificateFile "C:\Certbot\live\app.authorevo.com\fullchain.pem"
      SSLCertificateKeyFile "C:\Certbot\live\app.authorevo.com\privkey.pem"
  </VirtualHost>
-
 4 ) Open Apache configuration and apply Virtual host changes 
 
 ![image_2024_03_08T09_00_51_383Z](https://github.com/wlollo/docs/assets/76046434/2eefd11a-8529-438a-96b6-1288dcdf0143)
