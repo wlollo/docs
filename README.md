@@ -6,19 +6,8 @@
 
 3 ) Set Virtual Host for project 
 
-Ex  <VirtualHost *:80>
-     DocumentRoot "C:/xampp/htdocs/"
-     ServerName app.authorevo.com
-     ServerAlias *.app.authorevo.com
- </VirtualHost>
- <VirtualHost *:443>
-     DocumentRoot "C:/xampp/htdocs/"
-     ServerName app.authorevo.com
-     ServerAlias *.app.authorevo.com
-     SSLEngine on
-     SSLCertificateFile "C:\Certbot\live\app.authorevo.com\fullchain.pem"
-     SSLCertificateKeyFile "C:\Certbot\live\app.authorevo.com\privkey.pem"
- </VirtualHost>
+![image_2024_03_08T09_12_14_578Z](https://github.com/wlollo/docs/assets/76046434/5200d786-fd01-40fb-bd27-3fa62164855e)
+
  
 4 ) Open Apache configuration and apply Virtual host changes 
 
