@@ -1,4 +1,4 @@
-**Xampp Set Up**
+**Project Set Up**
 ====================
 1 ) Go to this path C:\xampp\apache\conf\extra
 
