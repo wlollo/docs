@@ -27,9 +27,7 @@ Ex  <VirtualHost *:80>
 5 ) set project wise htaccess at C:\xampp\htdocs 
 
 
-currently it works  flow on http :-
-
-angular project 
+Angular project Set Up
 =============================
 please first of check nodejs version  18.17.1  and npm  version  9.6.7  
 
